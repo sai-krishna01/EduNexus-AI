@@ -1,0 +1,5 @@
+{
+  "name": "EduNexus AI Platform",
+  "description": "A production-ready AI-powered education platform with role-based access, real database persistence (IndexedDB), and Google Gemini integration.",
+  "requestFramePermissions": []
+}
